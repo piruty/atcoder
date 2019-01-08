@@ -1,0 +1,5 @@
+.pytest_cache
+.projectile
+.idea
+.python-version
+env/
